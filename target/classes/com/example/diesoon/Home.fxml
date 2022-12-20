@@ -231,7 +231,7 @@
                   </AnchorPane>
                   <AnchorPane fx:id="dashBoardAnchorPane" prefHeight="200.0" prefWidth="200.0">
                      <children>
-                        <Button alignment="BOTTOM_CENTER" layoutX="53.0" layoutY="128.0" mnemonicParsing="false" prefHeight="118.0" prefWidth="170.0" style="-fx-background-color: red;" text="Total MEdicines" textFill="WHITE">
+                        <Button alignment="BOTTOM_CENTER" layoutX="53.0" layoutY="128.0" mnemonicParsing="false" prefHeight="118.0" prefWidth="170.0" style="-fx-background-color: red;" text="Total Medicines" textFill="WHITE">
                            <font>
                               <Font name="Berlin Sans FB" size="19.0" />
                            </font>
