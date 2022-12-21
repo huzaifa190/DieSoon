@@ -1,7 +1,7 @@
 # DieSoon
 
-SP22-Bcs-126@cuilahore.edu.pk
-SP22-Bcs-108@cuilahore.edu.pk
+Huzaifa Basharat ----> SP22-Bcs-126@cuilahore.edu.pk
+Umair Arshad ----->SP22-Bcs-108@cuilahore.edu.pk
 
 It is a PharmacyStockManagementSystem.
 You can sign in by using following credentials:
